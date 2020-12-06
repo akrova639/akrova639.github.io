@@ -13,6 +13,7 @@ body {
 	background-color: Thistle;
 	width: 90%;
 	margin: auto;
+	font-family: "Lucida Console", "Courier New", monospace;
 } 
 main { 
 	display: grid;
